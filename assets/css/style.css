@@ -1,0 +1,50 @@
+/*
+ *  Project:  Project Name
+ *  Team:     LoneRanger
+ *	Position: Team Leader
+ *  Author: 	Md. Miraz Uddin
+ *  Email:    freelancer.miraz.uddin@gmail.com
+
+ *  0.  Basic CSS
+ *  1.	Header
+ *  2.	Body
+ *  3.	Footer
+
+*/
+
+/*********************
+	Basic CSS
+**********************/
+@font-face {
+  src: url(fonts/Helvetica/Helvetica-regular.ttf);
+  font-family: helvetica_regular;
+}
+
+@font-face {
+  src: url(fonts/Helvetica/Helvetica-Bold.ttf);
+  font-family: helvetica_bold;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+  font-family: helvetica_regular;
+}
+
+ul, ol {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+img {
+	vertical-align: middle;
+}
+
+/*********************
+	Header
+**********************/
+
